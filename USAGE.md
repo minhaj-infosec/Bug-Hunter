@@ -14,8 +14,8 @@ USAGE.md                 <- This guide
 
 ```bash
 # 1. Clone the files
-git clone https://github.com/your-repo/bug-hunter-pipeline
-cd bug-hunter-pipeline
+git clone https://github.com/minhaj-infosec/Bug-Hunter.git
+cd Bug-Hunter
 
 # 2. Install all tools at once
 bash install_tools.sh
